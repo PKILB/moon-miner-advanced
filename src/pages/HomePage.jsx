@@ -8,13 +8,7 @@ export default function HomePage() {
       <div className="container my-3">
         <div className="row">
           <div className="col-4">
-            <div className="card">
-              <div className="card-body">
-                <button className="btn btn-success my-1" onClick={() => setCount((count) => count + 1)}>
-                  count is {count}
-                </button>
-              </div>
-            </div>
+            <h3>This is gonna be a fun one</h3>
           </div>
         </div>
       </div>
