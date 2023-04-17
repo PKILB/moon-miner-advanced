@@ -14,7 +14,7 @@ export default function HomePage() {
       <div className="container-fluid my-3">
         <div className="row">
           <div className="col-6 m-auto text-center">
-            <h3>This is gonna be a fun one</h3>
+            <h3>LEAGUE MINER</h3>
           </div>
         </div>
       </div>
